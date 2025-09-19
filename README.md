@@ -17,5 +17,5 @@ Este projeto é um conversor de moedas em Python com interface gráfica (Tkinter
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/currency_converter.git
+git clone https://github.com/weeekz/money_converter.git
 cd currency_converter
